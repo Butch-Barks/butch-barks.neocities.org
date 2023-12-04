@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+
+<head> 
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Butch Barks</title>
+	<link rel="icon" type="image/png" href="https://www.freefavicon.com/freefavicons/animal/dog-152-203766.png" />
+	<link rel="stylesheet" href="https://transmascring.netlify.app/tmring.css">
+
+
+	<!-- SCM Music Player https://www.scmplayer.net -->
+	<script type="text/javascript" src="https://www.scmplayer.net/script.js"
+		data-config="{'skin':'skins/simpleBlue/skin.css','volume':50,'autoplay':true,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'Bark Like a Dog','url':'https://youtu.be/OWjsHMEi_F4?si=E_wv66PTBcfl77Jr'},{'title':'Bring Me Back a Dog','url':'https://youtu.be/BjfRlpIpFa0?si=e3dG8eD7_Mg_3jfx'},{'title':'Dog Years','url':'https://youtu.be/YDWj9HvJV_s?si=htjfPcn_6JHkXNIz'},{'title':'Eat You','url':'https://youtu.be/E1Qkay0hwog?si=T0ZOKwYF7HzDkXn3'},{'title':'Good Good Boys','url':'https://youtu.be/JCrc8G5Tr00?si=PebAULSazWXPpn33'},{'title':'I%27m Your Man','url':'https://youtu.be/7LMKZPC9OIc?si=sZoLZ-oSKc7ExMuh'},{'title':'Imposter Syndrome','url':'https://youtu.be/wMmvMU7XDig?si=D3Y_rdO4AGoeX7TL'},{'title':'Putting The Dog To Sleep','url':'https://youtu.be/vEwNiX0KWhc?si=3Akr2JybZW7wgh0h'},{'title':'Wait Until I Get My Hands On You','url':'https://youtu.be/z7K8zgopz04?si=_uj7xT3Xv4Uhk2w2'}]}">
+	</script>
+	<!-- SCM Music Player script end -->
+</head>
+
+<body>
+	<header class="header">
+		<a herf="https://butch-barks.neocities.org/" Class=logo>
+			<img src="https://i.postimg.cc/XqFPQsfK/Him-Barking.png" ></a>
+
+
+			<img src='https://i.postimg.cc/VLSYqHhv/I-LOVE-TGIRLS.png'>
+			<img src='https://i.postimg.cc/pXMsXNRt/IT-S-OK-TO-KILL.png'>
+			<img src='https://i.postimg.cc/Nf8pKNj2/THIS-PUP-HUNTS.png'>
+			<img SRC="https://i.postimg.cc/Jn2dQKyc/TAX-PAYING.png">
+
+			<nav class="navbar">
+				<ul>
+					<a href="index">Home</a>
+					<a href="about">Webmaster</a>
+					<a href="ftm_stuff">FTM-Info</a>
+					<a href="projects">Projects</a>
+					<a href="shrines_index">Shrines</a>
+					<a href="blog">Blog</a>
+					<a href="misc">Misc</a>
+				</ul>
+			</nav>
+	</header>
+	<div class="container">
+		<div Class="item item-1">
+			<H1> Updates </H1>
+			<p><strong>The look of the site might change rapidly.</strong></p>
+			<p><strong>However, I'll try to keep a clean log of what I'm doing</strong></p>
+			<ul>
+				<li>As I'm sure you've noticed, the code and style have changed yet again! As I am in the process of
+					learning
+					HTML and CSS, I will be moving from cut and paste themes to more oringal coding</li>
+				<li>Added pages to the navbar! </li>
+			</ul>
+			<h2> Plans and Notes </h2>
+			<p>I have a lot of plans for this website! These are the things I am working on adding or fixing!</p>
+			<ul style="padding-left:10px;">
+
+				<li>Create a page for blogging!</li>
+				<li>Create am index of shrines (Some for special intrests other for fandoms!)</li>
+				<li>Create a directory of resources and information for transgender men and transmasculine poeples.</li>
+			</ul>
+		</div>
+		<div Class="item item-2">
+			<h1>Welcome to Butch Barks</h1>
+			<p><strong>This is my personal website!</strong></p>
+			<p>You can call me Butch or Barks! I avoid using my real name online, so don't ask for it. My pronouns are
+				He/Hymn|Him/His and It/It's. I am a transsexual man living in Seattle, WA and I am active in both the
+				gay and
+				lesbian scenes here. I am curently a waiter and bartender, I have perviously worked as a bouncer.</p>
+			<p> A lot of the stuff on this website is broken, it is very much under construction! It probably will be
+				for a while,
+				but It should at least be readable and usable for the most part.</p>
+			<img src=https://code.divshot.com/geo-bootstrap/img/test/construction.gif>
+	<p>
+			<brk> </brk>
+			</p>
+			<Img src="https://transmascring.netlify.app/male.gif">
+			<img src="https://web.archive.org/web/20091027082501im_/http://geocities.com/peejeepee/gayflag.gif">
+			<img src="https://web.archive.org/web/20090829110308im_/http://www.geocities.com/tomboylex/dancecow.gif">
+			<img src="https://web.archive.org/web/20010619103044/http://www.geocities.com:80/queeralumni/lambdaspin.gif">
+			<img src="https://i.postimg.cc/yNfdZytC/politics-zappa.gif">
+			<br>
+			<img src="https://i.postimg.cc/RZHq2tWc/20cash.gif">
+			<img src="https://odditycommoddity.neocities.org/Images/Buttons/playstation.gif">
+			<img src="https://transring.neocities.org/img/tti_logo.png">
+    </div>
+			<div Class="item item-3">
+				<h2>BARK BARK</h2>
+				<p>If there are any major breaks on this site, please let me know! I am aware of a number of minior
+					issues, that I am
+					working on. You can contact me at Butch-Barking@gmail.com! </p>
+				<p> The "other tools" listed below are by sadgirl.online, and I have them saved here for my personal
+					reference, at the
+					momment!</p>
+				<h3>Other Tools</h3>
+				<ul>
+					<li><a href="https://sadgrlonline.github.io/html-cheatsheet/" target="_blank">HTML Cheatsheet</a>
+					</li>
+					<li><a href="https://sadgrl.online/webmastery/webmaster-links.html" target="_blank">Webmaster
+							Links</a></li>
+					<li><a href="https://sadgrl.online/webmastery/downloads/tiledbgs.html" target="_blank">Tiled BGs</a>
+					</li>
+					<li><a href="https://sadgrl.online/webmastery/downloads/fonts.html" target="_blank">Fonts</a></li>
+					<li><a href="https://sadgrl.online/projects/ideas/" target="_blank">Site Ideas</a></li>
+				</ul>
+				<h3> Website Inspo </h3>
+				<ul>
+					<P> These are websites I've found online that inspire me </p>
+					<li> <a href="https://www.cameronsworld.net/">Cameron's World</a>
+					<li> <a herf="http://storme-delarverie.com/">Celebration of Stormé DeLarverié</a>
+						<P> Note: the link for the Stormé DeLarverié site doesn't seem to be working. </p>
+						<p> However, the url is storme-delarverie.com </p>
+
+				</ul>
+			</div>
+		</div>
+		<div id="transring">
+			<script type="text/javascript" src="https://transring.neocities.org/onionring-variables.js"></script>
+			<script type="text/javascript" src="https://transring.neocities.org/onionring-widget.js"></script>
+			<div id="bisexualism">
+				<script type="text/javascript" src="https://emeowly.github.io/bi/onionring-variables.js"></script>
+				<script type="text/javascript" src="https://emeowly.github.io/bi/onionring-widget.js"></script>
+				<!-- Transmasc Ring -->
+				<div id="tmring">
+					<div id="tmri">
+						<img src="https://transmascring.netlify.app/tiny.png"><br>
+						<p>Transmasculine Pride Webring</p>
+						<a href="https://transmascring.netlify.app/butch/previous" target="_blank">
+							<< prev</a> | <a href="https://transmascring.netlify.app" target="_blank">index
+						</a> | <a href="https://transmascring.netlify.app/butch/next" target="_blank">next >> </a>
+					</div>
+				</div>
+				<!-- Transmasc Ring -->
+			</div>
+		</div>
+		<style>
+			body {
+				Min-height: 100vh;
+				background: url('https://i.pinimg.com/1200x/b0/a9/f4/b0a9f4471b5b7feaed849ef7c5b5510a.jpg')
+			}
+
+			.header {
+
+				border-radius: 10px;
+
+				Position: float;
+				top: 0;
+				left: 0 width: 100% padding: 20px 100px;
+				background: #0277bd
+			}
+
+			.navbar a {
+				color: white;
+				font-weight: 800;
+				text-decoration: none;
+
+			}
+
+			.container {
+
+				border: none;
+				Padding: 10px;
+
+				display: flex;
+				Justify-content: space-evenly Flex-wrap: wrap;
+				align-content: space-evenly Gap: 20em;
+
+			}
+
+			.item-1 {
+				Border: solid;
+				border-radius: 10px;
+				padding: 10px;
+				background: lightblue;
+				opacity: .8;
+			}
+
+			.item-2 {
+				Border: solid;
+				border-radius: 10px;
+				padding: 10px;
+				background: lightblue;
+				opacity: .8;
+			}
+
+			.item-3 {
+				Border: solid;
+				border-radius: 10px;
+				padding: 10px;
+				background: lightblue;
+				opacity: .8;
+			}
+
+			.title {
+				align-content: center;
+			}
+
+			/* Start https://www.cursors-4u.com */
+			* {
+				cursor: url(https://cur.cursors-4u.net/nature/nat-8/nat773.cur), auto !important;
+			}
+
+			/* End https://www.cursors-4u.com */
+		</style>
