@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Butch Barks: Blog</title>
+	<link rel="icon" type="image/png" href="https://www.freefavicon.com/freefavicons/animal/dog-152-203766.png" />
+	<link rel="stylesheet" href="https://transmascring.netlify.app/tmring.css">
+	<!-- SCM Music Player https://www.scmplayer.net -->
+	<script type="text/javascript" src="https://www.scmplayer.net/script.js"
+		data-config="{'skin':'skins/simpleBlue/skin.css','volume':50,'autoplay':false,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'Bark Like a Dog','url':'https://youtu.be/OWjsHMEi_F4?si=E_wv66PTBcfl77Jr'},{'title':'Bring Me Back a Dog','url':'https://youtu.be/BjfRlpIpFa0?si=e3dG8eD7_Mg_3jfx'},{'title':'Dog Years','url':'https://youtu.be/YDWj9HvJV_s?si=htjfPcn_6JHkXNIz'},{'title':'Eat You','url':'https://youtu.be/E1Qkay0hwog?si=T0ZOKwYF7HzDkXn3'},{'title':'Good Good Boys','url':'https://youtu.be/JCrc8G5Tr00?si=PebAULSazWXPpn33'},{'title':'I%27m Your Man','url':'https://youtu.be/7LMKZPC9OIc?si=sZoLZ-oSKc7ExMuh'},{'title':'Imposter Syndrome','url':'https://youtu.be/wMmvMU7XDig?si=D3Y_rdO4AGoeX7TL'},{'title':'Putting The Dog To Sleep','url':'https://youtu.be/vEwNiX0KWhc?si=3Akr2JybZW7wgh0h'},{'title':'Wait Until I Get My Hands On You','url':'https://youtu.be/z7K8zgopz04?si=_uj7xT3Xv4Uhk2w2'}]}">
+	</script>
+	<!-- SCM Music Player script end -->
+</head>
+
+<body>
+
+	<div class="container">
+
+		<div class="header">
+			<h1> Butch Barking: Blog </h1>
+		</div>
+		<div class="rightnav">
+			<h1> About </h1>
+			<p> This is my blog section of the website! You can navigate
+				to other sections of the blog using this navbar - Bark Bark! </p>
+			<h1> Navbar </h1>
+			<ul>
+				<li><a href="index">Home</a></li>
+				<li><a href="about">Webmaster</a></li>
+				<li><a href="ftm_stuff">FTM-Info</a></li>
+				<li><a href="projects">Projects</a></li>
+				<li><a href="shrines_index">Shrines</a></li>
+				<li><a href="blog">Blog</a></li>
+				<li><a href="misc">Misc</a></li>
+			</ul>
+			<h1> Contact Me! </h1>
+			<p> You can contact me by emailing <a href=mailto:butch.barking@gmail.com>butch.barking@gmail.com</a> or via
+				the guestbook below!</p>
+			<div id="c_widget"></div>
+			<script src="guestbook.js"></script>
+			<img src="https://i.postimg.cc/8CHWjQkF/oldmanyaoi.jpg">
+  </div>
+
+			<div class="bark bark-1">
+				<h1> Bark <h1>
+						<h5> Just a little post, 12/3/2023 </h5>
+						<p> I'm not certain WHAT I should be blogging about.
+							Trans issues? Queer issues, in general? My personal life?
+							I don't know if I'm making "content" or writing a diary! I guess I'll
+							go with diary for now. </p>
+						<br>
+						<p> Today I worked the brunch shift, which is a nightmare and more.
+							It's the hardest shift there is, but of course none of us get paid more
+							for working it. We get tipped, but those tips are collected and divided
+							amongst the staff based on hours. So you can work the slow shifts and get paid
+							with the tip money that was earned by the brunch staff, lol. Which means there's
+							NO insentive to working on the weekends, so it's always impossible to find someone
+							to cover a sunday shift, cause who would want to do twice the amount of normal work
+							and get paid the same amount you get paid for just standing around joking with co-workers
+							on a thursday when the cafe is empty of customers.
+							<strong> wow, guess this is a vent blog already </strong></p>
+						<br>
+						<p> Let's see, what else can I post about? I recently got my legal name change finished!
+							And with that comes a plethera of issues. One of which is replacing my ID. When I got the
+							court-order
+							I of course went to the DMV to get a new ID, and that actually went pretty smoothe. However,
+							a few weeks ago
+							I lost my wallet, I can't find it anywhere in my tiny gay studio apartement, so I assume I
+							lost it out in the wilds.
+							So, I went online to replace my ID. It asked for my SSN and full legal name, which I gave
+							it. Then it told me I don't have
+							a valid Identification. Which is bullshit, cause I updated by Social Security info months
+							ago right after I got my new ID.
+							So, tomorrow I have to spend my day off at the DMV, trying to get that situation sorted out!
+							<Strong> That being said, if anyone 
+          has questions about changing their legal name in Seattle, let me know. I'm unbearbly aquainted with the system at this point.</strong>
+						</p>
+						<br>
+						<p> P.S. Please forgive any spelling errors, I'm dyslexic and my html editor doesn't come with a
+							spellchecker, lol. </p>
+			</div>
+
+			<div class="bark bark-2">
+				<h1> BARK BARK </h1>
+				<h5> My first blog post, 12/3/2023 </h5>
+				<p> This is my first blog post on this website.</p>
+				<br>
+				<p> I'm planning on making weekly posts to my blog
+					and slowly expanding the amount of posts I make as
+					I get used to posting in this format, since it's not
+					quite as easy as making a tumblr post -- and maybe that's
+					a good thing, lol.
+				</p>
+			</div>
+
+			<div class="bark bark-3">
+
+			</div>
+
+			<div class="bark bark-4">
+			</div>
+
+			<div class="footer">
+				butch-barks.neocities.org
+				<br>
+				<a href=https://butch-barks.neocities.org/>
+					<img src="https://i.postimg.cc/XqFPQsfK/Him-Barking.png" > </a>
+			</div> <!-- footer end div -->
+
+		</div> <!-- Container End Div -->
+
+
+		<style>
+			body {
+				font-family: sans-serif;
+				background: url("https://i.postimg.cc/q7p6PGW9/Dog-Motif-wallpaper.jpg");
+
+			}
+
+			p {}
+
+			h1 {}
+
+			.header {
+				border: solid;
+
+				padding: 10px;
+				font-size: 40px;
+				text-align: center;
+				background: white;
+				opacity: 0.8;
+			}
+
+			.rightnav {
+
+				border: solid;
+				margin-top: 20px;
+				background: white;
+				opacity: 0.9;
+				float: right;
+				width: 25%;
+				padding-left: 20px;
+			}
+
+
+			.container {
+				border: solid;
+				padding: 10px;
+				width: 1000px margin: auto;
+
+
+			}
+
+			.bark {
+				border: solid;
+				padding: 10px;
+				margin-top: 20px;
+				width: 70%;
+				background: white;
+				opacity: 0.9;
+
+			}
+
+			.footer {
+				border: solid;
+
+				padding: 10px;
+				font-size: 14px;
+				text-align: center;
+				background: white;
+				opacity: 0.8;
+			}
+
+				/* Start https://www.cursors-4u.com */
+				* {
+					cursor: url(https://cur.cursors-4u.net/nature/nat-8/nat773.cur), auto !important;
+				}
+
+				/* End https://www.cursors-4u.com */
+		</style>
+</body>
